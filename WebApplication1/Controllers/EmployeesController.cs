@@ -16,6 +16,9 @@ namespace WebApplication1.Controllers
         {
             return edb.Employees.ToList();
         }
-
+        public Employee GetEmplyee(int id)
+        {
+            return edb.Employees.Single(x => x.id == id);
+        }
     }
 }
