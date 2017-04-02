@@ -57,3 +57,70 @@ c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplicati
 c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\daku\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\ApplicationInsights.config
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\csc.exe
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\vbc.exe
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\WebApplication1.dll.config
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\WebApplication1.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\WebApplication1.pdb
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\EntityFramework.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Helpers.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Http.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Mvc.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Optimization.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Razor.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.WebPages.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\WebGrease.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\EntityFramework.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Helpers.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Http.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Mvc.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Optimization.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.Razor.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.WebPages.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\GitProjects\DemoWebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\GitProjects\DemoWebAPI\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\GitProjects\DemoWebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+D:\GitProjects\DemoWebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
